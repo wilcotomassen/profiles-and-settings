@@ -1,0 +1,12 @@
+* Navigation cluster swap
+[pup]>[home]
+[pdn]>[end]
+[home]>[pup]
+[end]>[pdn]
+
+* Disable caps
+[caps]>[null]
+
+* Fn shift
+[hk9]>[fnshf]
+fn [hk9]>[fnshf]
